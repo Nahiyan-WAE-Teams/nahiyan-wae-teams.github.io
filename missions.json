@@ -1,0 +1,8 @@
+[
+  { "title": "Threat intel briefing — Q3 review", "status": "active", "priority": "p0", "note": "Compiling findings for release.", "detail": "Cross-referencing indicators against three active campaigns." },
+  { "title": "WAE onboarding docs rewrite", "status": "active", "priority": "p1", "note": "Updating contributor guide.", "detail": "Adding a clearer first-week checklist for new members." },
+  { "title": "Community security workshop", "status": "pending", "priority": "p1", "note": "Scheduling for next cycle.", "detail": "Waiting on venue confirmation before opening signups." },
+  { "title": "Site infrastructure migration", "status": "pending", "priority": "p2", "note": "Evaluating hosting options.", "detail": "Comparing always-free compute tiers for the next hosting move." },
+  { "title": "Public disclosure policy draft", "status": "done", "priority": "p1", "note": "Published to Resources.", "detail": "Reviewed and signed off by the core team." },
+  { "title": "Terminal aesthetic redesign", "status": "done", "priority": "p2", "note": "Shipped.", "detail": "Rebuilt hero, about, and mission board sections." }
+]
