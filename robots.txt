@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nahiyan-wae-teams.github.io/sitemap.xml
